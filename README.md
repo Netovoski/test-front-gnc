@@ -11,6 +11,9 @@
 
 repositório para avaliação frontend
 
+
+################################################################################
+
 Será avaliado:
 - Clareza no código
 - Estrutura de commits
