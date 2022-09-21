@@ -1,8 +1,10 @@
-A presente atividade foi realizada com a biblioteca Pandas e a biblioteca Ipywidgets, utilizando a linguagem de programação Python.
+# teste Front-end
 
-# Para executar foi necessário a instalação do Jupyter Notebook.
+  - A presente atividade foi realizada com a biblioteca Pandas e a biblioteca Ipywidgets, utilizando a linguagem de programação Python.
 
- - Segue imagens em anexo, para validação da atividade proposta.
+  - Para executar foi necessário a instalação do Jupyter Notebook.
+
+  - Segue imagens em anexo, para validação da atividade proposta.
 
 
 # front-test
