@@ -9,7 +9,6 @@
   - O arquivo principal está em "front-test-gnc.ipynb"
 
 
-# front-test
 repositório para avaliação frontend
 
 Será avaliado:
