@@ -5,6 +5,8 @@
   - Para executar foi necessário a instalação do Jupyter Notebook.
 
   - Segue imagens em anexo, para validação da atividade proposta.
+  
+  - O arquivo principal está em "front-test-gnc.ipynb"
 
 
 # front-test
